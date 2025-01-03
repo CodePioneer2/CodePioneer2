@@ -1,6 +1,5 @@
 > My name is Anton
->> I’m currently learning WEB
->>> DM me here
+>> Doing some web stuff
 
 <!---
 CodePioneer2/CodePioneer2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
